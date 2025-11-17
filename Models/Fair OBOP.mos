@@ -6,7 +6,7 @@ parameters
 	! Input file (change this to load a different instance)
 	DATAFILE = '../Instances/2/LPE-68-01.dat'
 	! Output file where results will be stored
-	OUTFILE = '../OBOP_Results.txt'
+	OUTFILE = '../Fair_OBOP_Results.txt'
 end-parameters
 
 declarations
