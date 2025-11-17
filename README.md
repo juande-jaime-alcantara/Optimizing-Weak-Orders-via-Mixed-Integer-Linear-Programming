@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<h1>Optimizing Weak Orders via MILP — Supplementary Material</h1>
+<h1>Optimizing Weak Orders via MILP — Supporting Material</h1>
 
 <p>This repository provides the supplementary material for the article:</p>
 
