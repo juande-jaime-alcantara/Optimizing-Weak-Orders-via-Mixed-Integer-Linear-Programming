@@ -111,7 +111,7 @@ To run an instance:
 
 <pre><code>@article{landete2025optimizing,
   title   = {Optimizing Weak Orders via Integer Linear Programming},
-  author  = {Aledo, Juan A and Dom{\'i}nguez, Concepci{\'o}n and Jaime-Alc{\'a}ntara, Juan de Dios and Landete, Mercedes},
+  author  = {Jaime-Alc{\'a}ntara, Juan de Dios and Landete, Mercedes and Dom{\'i}nguez, Concepci{\'o}n and Aledo, Juan A},
   journal = {to appear},
   year    = {2025}
 }
